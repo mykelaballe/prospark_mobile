@@ -29,8 +29,8 @@ https://itunes.apple.com/us/app/prospark-transforms-learning/id1438625157?ls=1&m
 <img src="https://user-images.githubusercontent.com/22584900/64779196-035dda00-d590-11e9-985a-5021487a14a5.JPG" width="300"/>
 
 ### White-labeling
-[TAF Learning - built for Toyota Astra Finance](https://play.google.com/store/apps/details?id=com.prospark.taf)  
-[Pustaka SLU - built for Asuransi SLU](https://play.google.com/store/apps/details?id=com.asuransi_slu)
+[TAF Learning](https://play.google.com/store/apps/details?id=com.prospark.taf) - built for [Toyota Astra Finance](https://www.taf.co.id/)  
+[Pustaka SLU](https://play.google.com/store/apps/details?id=com.asuransi_slu) - built for [Asuransi SLU](https://www.slu.id/mitra)
 These apps have their own project setup customized app icon, splash screen and some of them have their own store listing in Google
 <div style="display:flex;">
   <img src="https://user-images.githubusercontent.com/22584900/64781628-e9bf9100-d595-11e9-928b-d006c0634a5a.jpg" width="288" height="592" />
