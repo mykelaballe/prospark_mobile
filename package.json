@@ -19,7 +19,7 @@
     "adbdev": "adb -s 50a79b4a reverse tcp:8081 tcp:8081"
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "express": "4.16.3",
     "moment": "2.22.2",
     "ramda": "0.25.0",
